@@ -1,0 +1,9 @@
+{
+  "name": "123-flow",
+  "version": "1.0.0",
+  "description": "Three number keys as three global workflow phases — 1=do, 2=review, 3=ship. Highest priority; any skill or agent yields to them.",
+  "author": {
+    "name": "Louis Lin",
+    "url": "https://github.com/LouisLin0723"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "123-flow",
+  "description": "Three number keys to run your entire AI-coding workflow: 1=do, 2=review, 3=ship.",
+  "owner": {
+    "name": "Louis Lin",
+    "url": "https://github.com/LouisLin0723"
+  },
+  "plugins": [
+    {
+      "name": "123-flow",
+      "description": "Press 1/2/3 to drive three workflow phases — 1=execute, 2=adversarial review, 3=ship/verify. Highest priority, any skill yields.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
